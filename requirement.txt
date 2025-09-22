@@ -1,0 +1,20 @@
+# Core deep learning
+tensorflow>=2.10
+keras>=2.10
+
+# Numerical computation
+numpy
+
+# Visualization
+matplotlib
+
+# Image processing
+Pillow
+
+# Machine learning utilities
+scikit-learn
+
+
+# Testing
+pytest
+ 
